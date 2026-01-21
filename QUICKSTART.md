@@ -8,7 +8,7 @@ Add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/network-cache.git", from: "1.0.0")
+    .package(url: "https://github.com/m00nbek/network-cache.git", from: "1.0.0")
 ]
 ```
 
